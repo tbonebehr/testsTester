@@ -1,0 +1,86 @@
+{
+  "jobID": "daf9f4c5-2717-4daa-8800-39b3233bb536",
+  "status": "Succeeded",
+  "results": [
+    {
+      "texts": [
+        "darf ich einen agenten sprechen"
+      ],
+      "status": "Succeeded",
+      "billingDetails": {
+        "CustomNeural": "0",
+        "Neural": "173"
+      },
+      "audioFileName": "0001.wav",
+      "properties": {
+        "audioSize": "123000",
+        "duration": "PT2.5S",
+        "durationInTicks": "25620000"
+      }
+    },
+    {
+      "texts": [
+        "Kann mir hier mal ein Mensch helfen"
+      ],
+      "status": "Succeeded",
+      "billingDetails": {
+        "CustomNeural": "0",
+        "Neural": "35"
+      },
+      "audioFileName": "0002.wav",
+      "properties": {
+        "audioSize": "124200",
+        "duration": "PT2.5S",
+        "durationInTicks": "25870000"
+      }
+    },
+    {
+      "texts": [
+        "das sag ich nur einem echten Menschen"
+      ],
+      "status": "Succeeded",
+      "billingDetails": {
+        "CustomNeural": "0",
+        "Neural": "37"
+      },
+      "audioFileName": "0003.wav",
+      "properties": {
+        "audioSize": "127800",
+        "duration": "PT2.6S",
+        "durationInTicks": "26620000"
+      }
+    },
+    {
+      "texts": [
+        "Kann ich bitte mit Mensch sprechen"
+      ],
+      "status": "Succeeded",
+      "billingDetails": {
+        "CustomNeural": "0",
+        "Neural": "34"
+      },
+      "audioFileName": "0004.wav",
+      "properties": {
+        "audioSize": "122400",
+        "duration": "PT2.5S",
+        "durationInTicks": "25500000"
+      }
+    },
+    {
+      "texts": [
+        "Ich will mit einem Menschen sprechen"
+      ],
+      "status": "Succeeded",
+      "billingDetails": {
+        "CustomNeural": "0",
+        "Neural": "36"
+      },
+      "audioFileName": "0005.wav",
+      "properties": {
+        "audioSize": "129600",
+        "duration": "PT2.7S",
+        "durationInTicks": "27000000"
+      }
+    }
+  ]
+}

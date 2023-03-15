@@ -1,0 +1,86 @@
+{
+  "jobID": "a77a6af1-5c60-4f72-bd38-e587760e32e8",
+  "status": "Succeeded",
+  "results": [
+    {
+      "texts": [
+        "verbinde mich mit einem Mitarbeiter bitte"
+      ],
+      "status": "Succeeded",
+      "billingDetails": {
+        "CustomNeural": "0",
+        "Neural": "94"
+      },
+      "audioFileName": "0001.wav",
+      "properties": {
+        "audioSize": "142800",
+        "duration": "PT2.9S",
+        "durationInTicks": "29750000"
+      }
+    },
+    {
+      "texts": [
+        "Mitarbeiter"
+      ],
+      "status": "Succeeded",
+      "billingDetails": {
+        "CustomNeural": "0",
+        "Neural": "11"
+      },
+      "audioFileName": "0002.wav",
+      "properties": {
+        "audioSize": "80400",
+        "duration": "PT1.6S",
+        "durationInTicks": "16750000"
+      }
+    },
+    {
+      "texts": [
+        "Sachbearbeiter"
+      ],
+      "status": "Succeeded",
+      "billingDetails": {
+        "CustomNeural": "0",
+        "Neural": "14"
+      },
+      "audioFileName": "0003.wav",
+      "properties": {
+        "audioSize": "92400",
+        "duration": "PT1.9S",
+        "durationInTicks": "19250000"
+      }
+    },
+    {
+      "texts": [
+        "Kundenberaterin"
+      ],
+      "status": "Succeeded",
+      "billingDetails": {
+        "CustomNeural": "0",
+        "Neural": "15"
+      },
+      "audioFileName": "0004.wav",
+      "properties": {
+        "audioSize": "94200",
+        "duration": "PT1.9S",
+        "durationInTicks": "19620000"
+      }
+    },
+    {
+      "texts": [
+        "Mitarbeiterin"
+      ],
+      "status": "Succeeded",
+      "billingDetails": {
+        "CustomNeural": "0",
+        "Neural": "13"
+      },
+      "audioFileName": "0005.wav",
+      "properties": {
+        "audioSize": "88200",
+        "duration": "PT1.8S",
+        "durationInTicks": "18370000"
+      }
+    }
+  ]
+}

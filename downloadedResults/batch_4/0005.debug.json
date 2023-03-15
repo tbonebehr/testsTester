@@ -1,0 +1,11 @@
+{
+  "debugInfo": [
+    {
+      "resultID": "28f6f44a3acd42bb9c689a093e3cf767",
+      "reason": "SynthesizingAudioCompleted",
+      "billableCharacters": "36",
+      "firstByteLatency": "0.027s",
+      "finishTime": "0.028s"
+    }
+  ]
+}

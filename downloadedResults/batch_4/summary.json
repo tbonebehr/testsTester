@@ -1,0 +1,86 @@
+{
+  "jobID": "778de517-2c5e-431d-ab62-aac6ebf439d4",
+  "status": "Succeeded",
+  "results": [
+    {
+      "texts": [
+        "Sachbearbeiterin"
+      ],
+      "status": "Succeeded",
+      "billingDetails": {
+        "CustomNeural": "0",
+        "Neural": "130"
+      },
+      "audioFileName": "0001.wav",
+      "properties": {
+        "audioSize": "98400",
+        "duration": "PT2S",
+        "durationInTicks": "20500000"
+      }
+    },
+    {
+      "texts": [
+        "Kundenberater"
+      ],
+      "status": "Succeeded",
+      "billingDetails": {
+        "CustomNeural": "0",
+        "Neural": "13"
+      },
+      "audioFileName": "0002.wav",
+      "properties": {
+        "audioSize": "86400",
+        "duration": "PT1.8S",
+        "durationInTicks": "18000000"
+      }
+    },
+    {
+      "texts": [
+        "leite mich an einen menschen weiter"
+      ],
+      "status": "Succeeded",
+      "billingDetails": {
+        "CustomNeural": "0",
+        "Neural": "35"
+      },
+      "audioFileName": "0003.wav",
+      "properties": {
+        "audioSize": "132000",
+        "duration": "PT2.7S",
+        "durationInTicks": "27500000"
+      }
+    },
+    {
+      "texts": [
+        "an einen menschen weiterleiten"
+      ],
+      "status": "Succeeded",
+      "billingDetails": {
+        "CustomNeural": "0",
+        "Neural": "30"
+      },
+      "audioFileName": "0004.wav",
+      "properties": {
+        "audioSize": "118800",
+        "duration": "PT2.4S",
+        "durationInTicks": "24750000"
+      }
+    },
+    {
+      "texts": [
+        "ich muss mit einem menschen sprechen"
+      ],
+      "status": "Succeeded",
+      "billingDetails": {
+        "CustomNeural": "0",
+        "Neural": "36"
+      },
+      "audioFileName": "0005.wav",
+      "properties": {
+        "audioSize": "130200",
+        "duration": "PT2.7S",
+        "durationInTicks": "27120000"
+      }
+    }
+  ]
+}

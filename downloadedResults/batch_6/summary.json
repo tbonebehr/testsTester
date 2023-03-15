@@ -1,0 +1,38 @@
+{
+  "jobID": "14bcc46f-2ab4-499b-8717-ca8611809244",
+  "status": "Succeeded",
+  "results": [
+    {
+      "texts": [
+        "Ich moechte bitte mit dem sprechen"
+      ],
+      "status": "Succeeded",
+      "billingDetails": {
+        "CustomNeural": "0",
+        "Neural": "78"
+      },
+      "audioFileName": "0001.wav",
+      "properties": {
+        "audioSize": "124800",
+        "duration": "PT2.6S",
+        "durationInTicks": "26000000"
+      }
+    },
+    {
+      "texts": [
+        "Ich will mit einem Kundeberater telefonieren"
+      ],
+      "status": "Succeeded",
+      "billingDetails": {
+        "CustomNeural": "0",
+        "Neural": "44"
+      },
+      "audioFileName": "0002.wav",
+      "properties": {
+        "audioSize": "157200",
+        "duration": "PT3.2S",
+        "durationInTicks": "32750000"
+      }
+    }
+  ]
+}
