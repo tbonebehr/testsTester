@@ -13,7 +13,7 @@ for item in ch["conversationFlow"]:
         # print("appended!")
         callIds.append(item["request"]["callMeta"]["callId"])
 
-# print(callIds)
+print(callIds)
 
 calls = {item:{} for item in callIds}
 
@@ -22,6 +22,7 @@ calls = {item:{} for item in callIds}
 for item in ch["conversationFlow"]:
 
     calls[item["request"]["callMeta"]["callId"]][item["timestamp"]] = {
+        "_ts": item["timestamp"],
         "human": item["human"]["message"],
         "bot": item["bot"]["message"]
     }
@@ -33,8 +34,10 @@ for call in calls.values():
 
 # print(calls)
 
-for call in calls.values():
-    for turn in call.values():
+for key in list(calls.keys()):
+    print("for call: ", key)
+    print("")
+    for turn in calls[key].values():
         print(turn)
     print("")
 
